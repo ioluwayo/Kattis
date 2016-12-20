@@ -1,3 +1,4 @@
+#solved
 infile = open("tests/1.in")
 numberOfDays = int(infile.readline().strip())
 availableMoney = 100
